@@ -386,8 +386,8 @@ Open a GitHub Issue with the label `enhancement`. Describe:
 
 | Name | Role | GitHub |
 |---|---|---|
-| Vlad | Project founder & lead | [@vladlen-codes](https://github.com/vladlen-codes) |
+| Vladlen | Project founder & lead | [@vladlen-codes](https://github.com/vladlen-codes) |
 
 ---
 
-*Built under [Siphalion Private Limited](https://github.com/vladlen-codes) — "Out of the depths."*
+*Built under [Github](https://github.com/vladlen-codes) — "Out of the depths."*
