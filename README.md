@@ -1,7 +1,7 @@
 # LLM Security Toolkit
 ### Architecture & Detailed Technical Specification
 
-> A production-grade Python middleware library for securing every LLM call — input guards, output validation, tool-call enforcement, and policy-driven control.
+> A production-grade Python middleware library for securing every LLM call, input guards, output validation, tool-call enforcement, and policy-driven control.
 
 ---
 
@@ -25,7 +25,7 @@
 
 ## 1. What Is This Project?
 
-The **LLM Security Toolkit** is a Python middleware library that sits between your application code and any LLM provider — intercepting every model call to enforce security checks before and after the AI responds.
+The **LLM Security Toolkit** is a Python middleware library that sits between your application code and any LLM provider, intercepting every model call to enforce security checks before and after the AI responds.
 
 Think of it as a security firewall specifically designed for AI calls:
 
@@ -34,7 +34,7 @@ Think of it as a security firewall specifically designed for AI calls:
 - Enforces **schema rules** on every tool/function call the model tries to make
 - Applies **configurable policies** to decide whether to block, warn, or log
 
-The library exposes a clean, importable API — just a few extra lines in any existing Python AI app. No infrastructure changes required.
+The library exposes a clean, importable API, just a few extra lines in any existing Python AI app. No infrastructure changes required.
 
 | Property | Value |
 |---|---|
